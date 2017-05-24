@@ -2,7 +2,7 @@
 
 Yleisiä linkkejä:
 
-* [Linkki sovellukseeni](https://www.cs.helsinki.fi)
+* [Linkki sovellukseeni](https://madkoppa.users.cs.helsinki.fi/fistsoha)
 * [Linkki dokumentaatiooni](https://www.github.com)
 
 ## Keskustelupalsta
