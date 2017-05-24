@@ -8,7 +8,19 @@
     }
 
     public static function sandbox(){
-      // Testaa koodiasi täällä
-      echo 'Hello World!';
+        // Testaa koodiasi täälläa
+        View::make('helloworld.html');
+           
+    }
+    
+    public static function thread(){
+        //view a thread
+        View::make('thread.html');
+    }
+
+
+    public static function category(){
+        //view a the threads in a category
+        View::make('category.html');
     }
   }
